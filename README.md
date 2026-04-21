@@ -1,3 +1,6 @@
+****This template is for Students to learn****
+
+
 # 📚 Express.js CRUD Template
 ### A beginner-friendly REST API with Node.js, Express, and MySQL
 
